@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/57895d2e-2744-48d4-b7ed-dc5d45027c30)
+
 # Assignment 3 Performance Testing with JMeter
 **Suvash Shrestha, Jose Vallejo**  
 **MSSE640 Software Quality and Testing**  
