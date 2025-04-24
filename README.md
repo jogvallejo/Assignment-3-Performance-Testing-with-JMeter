@@ -1,4 +1,4 @@
-# Assignment-3-Performance-Testing-with-JMeter
+# Assignment 3 Performance Testing with JMeter
 **Suvash Shrestha, Jose Vallejo**  
 **MSSE640 Software Quality and Testing**  
 **Assignment 3: Performance Testing with JMeter**
